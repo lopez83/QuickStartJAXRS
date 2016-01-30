@@ -1,0 +1,1 @@
+Simple CXF JAX-RS webapp service using spring configuration
